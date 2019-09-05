@@ -1,4 +1,4 @@
 # Register new plugin for ckeditor
 editor:
   externalPlugins:
-    tx_csckeditorexample: { resource: "EXT:cs_ckeditor_example/Resources/Public/JavaScript/Plugin/Example/tx_csckeditorexample.js" }
+    tx_csckeditorexample: { resource: "EXT:cs_ckeditor_example/Resources/Public/JavaScript/CKEditor/Plugin/Example/tx_csckeditorexample.js" }
